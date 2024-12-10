@@ -1,0 +1,14 @@
+{
+    "twitchApi": {
+      "oauthToken": "oauth:",
+      "botNickname": "",
+      "clientId": "",
+      "clientSecret": "",
+      "channelName": "",
+      "accessToken": ""
+    },
+    "discord": {
+      "webhookUrl": ""
+    }
+  }
+  
